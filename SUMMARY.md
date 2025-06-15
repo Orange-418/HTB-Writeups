@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Hack The Box - Vault Writeup](README.md)
+* [Hack The Box - Celestial Writeup](README.md)
